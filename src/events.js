@@ -76,7 +76,7 @@ exports.listen = function listen (client)
 
          client.user.setPresence({
             "activity": {
-               "name": "Crypt0 Maina",
+               "name": "Crypt0 Mania",
                "type": "WATCHING"
             },
             "status": "online"
